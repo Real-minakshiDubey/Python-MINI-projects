@@ -10,7 +10,7 @@ These projects are ideal for absolute beginners and cover real-world logic in a 
 
 | Project | Description |
 |--------|-------------|
-| 🔢 [Calculator App](./calculator.py/) | A console-based calculator that supports addition, subtraction, multiplication, and division. |
+| 🔢 [Calculator App](./calc.py/) | A console-based calculator that supports addition, subtraction, multiplication, and division. |
 | 🗂 [To-Do List App](./todo.py/) | A simple task management app that lets you add, view, and save tasks using file I/O. |
 | 🧠 [Quiz App](./quiz.py/) | A text-based quiz game that tracks score and evaluates answers from the user. |
 | 📅 [Calendar App](./calendar.py/) | A utility tool to view monthly calendars, today’s date, and leap year checks. |
