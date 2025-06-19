@@ -11,10 +11,10 @@ These projects are ideal for absolute beginners and cover real-world logic in a 
 | Project | Description |
 |--------|-------------|
 | 🔢 [Calculator App](./calc.py/) | A console-based calculator that supports addition, subtraction, multiplication, and division. |
-| 🗂 [To-Do List App](./todo.py/) | A simple task management app that lets you add, view, and save tasks using file I/O. |
+| 🗂 [To-Do List App](./To_do_list.py/) | A simple task management app that lets you add, view, and save tasks using file I/O. |
 | 🧠 [Quiz App](./quiz.py/) | A text-based quiz game that tracks score and evaluates answers from the user. |
-| 📅 [Calendar App](./calendar.py/) | A utility tool to view monthly calendars, today’s date, and leap year checks. |
-| 🎲 [Dice Roller / Number Guessing Game](./dice.py/) | Fun little games using Python's random module to roll dice or guess numbers. |
+| 📅 [Calendar App](./calendar_app.py/) | A utility tool to view monthly calendars, today’s date, and leap year checks. |
+| 🎲 [Dice Roller / Number Guessing Game](./dice_game.py/) | Fun little games using Python's random module to roll dice or guess numbers. |
 
 ---
 
