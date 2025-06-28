@@ -22,25 +22,23 @@ These projects are ideal for absolute beginners and cover real-world logic in a 
 python-mini-projects/
 ├── calculator/
 │ ├── calculator.py
-│ └── README.md
+│ 
 ├── todo/
 │ ├── todo.py
-│ └── README.md
+│ 
 ├── quiz/
 │ ├── quiz.py
-│ └── README.md
+│ 
 ├── calendar/
 │ ├── date.py
-│ └── README.md
+│ 
 ├── dice/
 │ ├── dice_roller.py
-│ └── README.md
+├── numpy experiments/
+│ ├── numpy_experiments.py
+│ 
 └── README.md ← (this file)
 
-yaml
-Copy code
-
----
 
 ## 💡 What You’ll Learn
 
@@ -49,6 +47,7 @@ Copy code
 - ✅ Working with random, datetime, calendar modules
 - ✅ File I/O (read(), write() with .txt files)
 - ✅ Basic Git & GitHub workflow
+- ✅ Numpy library
 
 ---
 
@@ -59,6 +58,32 @@ Copy code
 - No external libraries needed
 
 ---
+
+# NumPy Practice 🧮
+
+This folder contains my NumPy practice exercises after watching a NumPy crash course. It includes array creation, reshaping, indexing, slicing, mathematical operations, boolean filtering, and more.
+
+## 🧠 Topics Covered
+- Creating 1D, 2D arrays
+- Zeros, Ones, Arange, Linspace
+- Indexing & slicing arrays
+- Mathematical operations
+- Dot product & elementwise ops
+- Reshaping arrays
+- Flattening
+- Aggregation: mean, std, min, max
+- Boolean masking & filtering
+
+## 📂 Files
+
+| File Name           | Description                        |
+|---------------------|------------------------------------|
+| numpy_practice.py | Python file with all NumPy examples |
+
+## ▶ How to Run
+
+```bash
+python numpy_practice.py
 
 ## ⚙ How to Run Any Project
 
