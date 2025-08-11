@@ -85,6 +85,34 @@ This folder contains my NumPy practice exercises after watching a NumPy crash co
 ```bash
 python numpy_practice.py
 
+# Pandas Practice 📊
+
+This folder contains my Pandas practice exercises after completing the Pandas crash course.  
+It covers dataset loading, data cleaning, filtering, grouping, sorting, and basic analysis.
+
+## 🧠 Topics Covered
+- Reading CSV files (`pd.read_csv`)
+- Viewing data (`head`, `tail`, `info`, `describe`)
+- Selecting rows & columns (`loc`, `iloc`)
+- Filtering with conditions
+- Sorting data (`sort_values`)
+- Adding & modifying columns
+- Grouping & aggregations (`groupby`, `mean`, `sum`, `count`)
+- Handling missing values (`fillna`, `dropna`)
+- Exporting datasets (`to_csv`)
+
+## 📂 Files
+
+| File Name           | Description                                   |
+|---------------------|-----------------------------------------------|
+| `pandas_practice.py`| Python file with Pandas examples and exercises|
+
+## ▶️ How to Run
+
+```bash
+python pandas_practice.py
+
+
 ## ⚙ How to Run Any Project
 
 ```bash
