@@ -84,6 +84,7 @@ This folder contains my NumPy practice exercises after watching a NumPy crash co
 
 ```bash
 python numpy_practice.py
+```
 
 # Pandas Practice 🧮
 
