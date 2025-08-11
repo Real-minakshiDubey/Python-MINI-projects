@@ -85,7 +85,7 @@ This folder contains my NumPy practice exercises after watching a NumPy crash co
 ```bash
 python numpy_practice.py
 
-**# Pandas practice 🧮**
+# Pandas Practice 🧮
 
 This folder contains my Pandas practice exercises after completing the Pandas crash course.  
 It covers dataset loading, data cleaning, filtering, grouping, sorting, and basic analysis.
@@ -112,10 +112,6 @@ It covers dataset loading, data cleaning, filtering, grouping, sorting, and basi
 ```bash
 python pandas_practice.py
 
-
-## ⚙ How to Run Any Project
-
-```bash
 # Navigate into the project folder
 cd calculator
 
