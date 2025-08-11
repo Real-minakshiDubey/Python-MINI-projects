@@ -10,5 +10,7 @@ while(num!=guess):
     print("oh no!,you guessed it wrong");
     guess=int(input("try again!, guess a number between 1 to 6 : "));
   
-print("congo!you guessed right.")
+print("congo!you guessed it right.")
+
+
    

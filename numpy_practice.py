@@ -235,6 +235,4 @@ print(B)
 # D. Sort a random array of 10 integers
 print(np.sort(np.random.randint(1,100,size=10)))
 
-#git add numpy_practice.py
-#git commit -m "Add NumPy practice file"
-#git push
+
